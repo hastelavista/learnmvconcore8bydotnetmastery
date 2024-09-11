@@ -1,0 +1,9 @@
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.csproj.AssemblyReference.cache
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.AssemblyInfoInputs.cache
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.AssemblyInfo.cs
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.csproj.CoreCompileInputs.cache
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.RazorAssemblyInfo.cache
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.RazorAssemblyInfo.cs
+C:\Users\Namaste\Desktop\ASASAS\imback\WASSUPWEB\obj\Debug\net8.0\WASSUPWEB.sourcelink.json
